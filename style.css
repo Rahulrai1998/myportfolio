@@ -1,11 +1,22 @@
 .intro{
-    background-color:grey;
+    background-color:#66a3ff;
     height: 500px;
-    width : 800px;
+    width : 900px;
     font-size:69px;
-    color:aliceblue;
+    font-style: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:#ffffff;
+    margin-left: 50px;
     
 }
-#hi{
-    margin-top : 100px;
+.services{
+    background-color:#66a3ff;
+    height: 200px;
+    width : 900px;
+    font-size:40px;
+    font-style: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#ffffff;
+    margin-left: 50px;
+  
 }
