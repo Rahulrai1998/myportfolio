@@ -1,21 +1,21 @@
 .intro{
-    background-color:#66a3ff;
+    background-color:#1affa3;
     height: 500px;
     width : 900px;
     font-size:69px;
     font-style: bold;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Syne Mono', monospace;
     color:#ffffff;
     margin-left: 50px;
     
 }
 .services{
-    background-color:#66a3ff;
+    background-color:#1affa3;
     height: 200px;
     width : 900px;
     font-size:40px;
     font-style: bold;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Syne Mono', monospace;
     color:#ffffff;
     margin-left: 50px;
   
