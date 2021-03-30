@@ -92,6 +92,40 @@ img{
     font-family: 'Syne Mono', monospace;
     color:#ffffff;
     border-radius: 20px;
-    
+}
 
+.fa{ 
+    padding: 20px;
+    font-size: 30px;
+    width: 80px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    display: block;
+    margin: auto;
+}
+.fa-facebook{
+
+   
+    color: white;
+}
+.fa-twitter{
+    
+    color: white;
+}
+.fa-linkedin{
+    
+    color: white;
+}
+.fa-instagram{
+    
+    color: white;
+}
+a{
+    display: block;
+    margin: auto;
+}
+.social_media{
+    position: relative;
+    bottom: 0px;
 }
