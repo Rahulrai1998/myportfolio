@@ -63,9 +63,22 @@ body{
 .col-2{width:40%;}
 .col-3{width:25%;}
 .col-4{width:10%;}
+.col-6{width:60%;}
+
 
 [class*=col]{
     margin:10px;
     float:left;
 }
+.col-5{width:70%;}
 *{ box-sizing:border-box;}
+
+.image{margin:0px 15px 5px 0px;}
+
+img{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    float:right;
+    
+}
