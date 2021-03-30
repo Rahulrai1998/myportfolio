@@ -95,18 +95,20 @@ img{
 }
 
 .fa{ 
-    padding: 20px;
     font-size: 30px;
-    width: 80px;
+    width: 50px;
+    height: 50px;
     text-align: center;
     text-decoration: none;
-    margin: 5px 2px;
-    display: block;
-    margin: auto;
+    border-radius: 50%;
+    
+}
+.fa:hover{
+    background-color: #ffffff;
+    color: #1affa3;
+   
 }
 .fa-facebook{
-
-   
     color: white;
 }
 .fa-twitter{
@@ -121,11 +123,9 @@ img{
     
     color: white;
 }
-a{
-    display: block;
-    margin: auto;
+.fa-youtube{
+    
+    color: white;
 }
-.social_media{
-    position: relative;
-    bottom: 0px;
-}
+
+
