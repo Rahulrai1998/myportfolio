@@ -11,6 +11,7 @@ body{
     font-family: 'Syne Mono', monospace;
     color:#ffffff;
     border-radius: 20px;
+    box-shadow:3px 6px 5px  #b3cccc;
 }
 .services{
     background-color:#1affa3;
@@ -20,6 +21,7 @@ body{
     font-family: 'Syne Mono', monospace;
     color:#ffffff;
     border-radius: 20px;
+    box-shadow:3px 6px 5px  #b3cccc;
 }
 .nav{
     font-size: 29px;
@@ -53,6 +55,7 @@ body{
 [class*=col]{
     margin:10px;
     float:left;
+    
 }
 .col-5{width:70%;}
 *{ box-sizing:border-box;}
@@ -66,6 +69,11 @@ body{
     font-family: 'Syne Mono', monospace;
     color:#ffffff;
     border-radius: 20px;
+    margin:10px 7px;
+    box-shadow:3px 6px 5px  #b3cccc;
+}
+.cards:hover{
+    opacity: 0.8;
 }
 .card_items{
     margin:50px;
@@ -111,6 +119,9 @@ img{
     background-color: #ffffff;
     color: #1affa3;
 }
+.fa:active{
+    opacity: 0.6;
+}
 .fa-facebook{
     color: white;
 }
@@ -126,6 +137,9 @@ img{
 }
 .fa-youtube{
     color: white;
+}
+.cards_main{
+    margin: 0px 10px;
 }
 
 
