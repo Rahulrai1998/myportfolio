@@ -115,9 +115,25 @@ img{
     border-radius: 50%;
     
 }
-.fa:hover{
-    background-color: #ffffff;
-    color: #1affa3;
+.fa-facebook:hover{
+    background-color: #4267B2;
+    color: #fff;
+}
+.fa-twitter:hover{
+    background-color: #1DA1F2;
+    color: #fff;
+}
+.fa-instagram:hover{
+    background-color: #cd486b;
+    color: #fff;
+}
+.fa-youtube:hover{
+    background-color: #FF0000;
+    color: #fff;
+}
+.fa-linkedin:hover{
+    background-color: #0e76a8;
+    color: #fff;
 }
 .fa:active{
     opacity: 0.6;
